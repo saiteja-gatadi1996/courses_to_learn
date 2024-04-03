@@ -1,5 +1,12 @@
 ## BIG O Notation
 
+### Objectives of BIG O: 
+- Define the `time complexity` and `space complexity`
+- Idea here is to <ins>determine **which one is the best** when we have multiple implementations of the same function</ins>.
+- Reason for this is <ins>***it's important to have a precise vocabulary to talk about how our code performs***</ins>
+- Useful ***for discussing trade-offs*** between different approaches.
+- Let'say when your code slows down or crashes, identifying parts of the code that are e
+
 #### Example 1
 
 i) Even if the n is billion, it will only perform three operations.
